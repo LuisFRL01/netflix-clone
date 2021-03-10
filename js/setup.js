@@ -14,3 +14,11 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
+
+function assistirMidiaPrincial() {
+    window.open("https://www.netflix.com/br/title/80189685")
+}
+
+function maisInfoMidiaPrincial() {
+    window.open("https://www.youtube.com/watch?v=tjujvMkqWe4")
+}
